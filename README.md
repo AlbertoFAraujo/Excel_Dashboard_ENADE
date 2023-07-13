@@ -13,3 +13,5 @@ Analisar os Indicadores de Qualidade do Ensino Superior (ENADE 2021) com base no
 3. Identificação das métricas-alvo e escolha das visualizações gráficas adequadas para cada cenário;
 4. Criação do layout e composição de paleta de cores;
 5. Teste de qualidade e eficácia do dashboard (garantir que todos os gráficos estejam funcionando corretamente e que os dados estejam sendo atualizados)
+
+https://github.com/AlbertoFAraujo/DashEnade2021/assets/105552990/e3133478-f12e-4370-abe1-155017611882
