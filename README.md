@@ -7,7 +7,7 @@
 
 **Objetivo:** 
 
-Analisar os Indicadores de Qualidade do Ensino Superior (ENADE 2021) com base nos dados públicos oferecidos pelo portal gov.br.
+Analisar os Indicadores de Qualidade do Ensino Superior (ENADE 2021) entre as modalidade de ensino "EAD" e "Presencial" com base nos dados públicos oferecidos pelo portal gov.br.
 
 [https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/indicadores-educacionais](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/indicadores-educacionais)
 
