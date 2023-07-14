@@ -45,13 +45,9 @@ O layout foi pensando na disposição das informações, como a ideia é apresen
 
 As paletas de cores foram baseadas na logomarca do ENADE:
 
-RGB (35, 79, 140) 
-
-![Untitled](1%20DASHBOARD%20ENADE%202021%20924edcdef6154bb8b5a2a2dc5e764048/Untitled.png)
-
-RGB(251, 202, 0)
-
-![Untitled](1%20DASHBOARD%20ENADE%202021%20924edcdef6154bb8b5a2a2dc5e764048/Untitled%201.png)
+| RGB (35, 79, 140) | RGB (251, 202, 0) |
+|-------------------|-------------------|
+| ![paletaAzul](https://github.com/AlbertoFAraujo/DashEnade2021/assets/105552990/17ba115a-a274-44c5-bf67-2f04fada58c8) | ![paletaAmarela](https://github.com/AlbertoFAraujo/DashEnade2021/assets/105552990/f9361980-577e-437d-a5a4-0325830d4b11) |
 
 ### 5. Teste de qualidade e eficácia do dashboard (garantir que todos os gráficos estejam funcionando corretamente e que os dados estejam sendo atualizados): ###
 
