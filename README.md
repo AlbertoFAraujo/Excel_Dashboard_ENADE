@@ -1,11 +1,8 @@
 ![fundo](https://github.com/AlbertoFAraujo/DashEnade2021/assets/105552990/38711a77-0076-4d26-8a5e-bb9bb9a3fb34)
 
-# 1. DASHBOARD ENADE 2021
+# DASHBOARD ENADE 2021
 
-#### GITHUB: ####
-[https://github.com/AlbertoFAraujo/DashEnade2021](https://github.com/AlbertoFAraujo/DashEnade2021)
-
-**Objetivo:** 
+### Objetivo:
 
 Analisar os Indicadores de Qualidade do Ensino Superior (ENADE 2021) entre as modalidade de ensino "EAD" e "Presencial" com base nos dados públicos oferecidos pelo portal gov.br.
 
