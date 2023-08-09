@@ -31,7 +31,7 @@ O tempo estimado para a execução de todas as etapas é de 1 dia.
 
 ### Projeto Final:
 
-![Dash_ENADE_2021](https://github.com/AlbertoFAraujo/DashEnade2021/assets/105552990/2f47800e-6968-461c-93e9-6472da0e0b99)
+![DashEnade_print](https://github.com/AlbertoFAraujo/DashEnade2021/assets/105552990/98a0144c-372a-423b-bf90-1596bad8ddfe)
 <hr>
 
 ### Execução das Etapas
@@ -67,4 +67,4 @@ Foi realizado diversos testes de filtros e foram identificadas alguns inconsist�
 
 ### Resultado final
 
-https://github.com/AlbertoFAraujo/DashEnade2021/assets/105552990/71fb9c4c-df9c-4eea-93b7-db38f6047d47
+https://github.com/AlbertoFAraujo/DashEnade2021/assets/105552990/9783d951-2e44-4ab8-8c79-f286a6247077
