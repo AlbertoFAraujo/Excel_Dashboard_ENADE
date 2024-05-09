@@ -1,6 +1,4 @@
-![fundo](https://github.com/AlbertoFAraujo/DashEnade2021/assets/105552990/38711a77-0076-4d26-8a5e-bb9bb9a3fb34)
-
-# 📊DASHBOARD ENADE 2021
+![image](https://github.com/AlbertoFAraujo/Excel_Dashboard_ENADE/assets/105552990/f5195d4a-d354-474a-b269-cba40116559d)
 
 ### Tecnologias utilizadas: 
 | [<img align="center" alt="Python" height="60" width="60" src="https://api.iconify.design/vscode-icons/file-type-excel.svg">](https://support.microsoft.com/en-us/excel) |
@@ -10,9 +8,9 @@
 
 ### Objetivo: 
 
-Analisar os Indicadores de Qualidade do Ensino Superior (ENADE 2021) entre as modalidade de ensino "EAD" e "Presencial" com base nos dados públicos oferecidos pelo portal gov.br.
+Este painel oferece uma análise comparativa do desempenho dos alunos entre as modalidades EAD (Educação a Distância) e PRESENCIAL no ENADE 2021 (Exame Nacional de Desempenho de Estudantes). O usuário final pode filtrar os dados por estados brasileiros, fornecendo insights sobre o total de concluintes, inscritos e o percentual de concluintes. Além disso, inclui a classificação do ENADE por nota (1 a 5, sendo 5 a maior nota), top 5 melhores desempenhos por cursos, distribuição por grau acadêmico (Bacharelado, Licenciatura e Tecnológico) e por categoria de universidade (Pública Municipal, Especial, Privada com Investimento, Privada sem Investimento, Pública Estadual e Pública Federal).
 
-[https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/indicadores-educacionais](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/indicadores-educacionais)
+**Fonte dos dados:** [https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/indicadores-educacionais](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/indicadores-educacionais)
 <hr>
 
 ### Etapas do projeto:
@@ -24,48 +22,20 @@ Analisar os Indicadores de Qualidade do Ensino Superior (ENADE 2021) entre as mo
 5. Teste de qualidade e eficácia do dashboard (garantir que todos os gráficos estejam funcionando corretamente e que os dados estejam sendo atualizados)
 <hr>
 
-### Tempo de Execução:
-
-O tempo estimado para a execução de todas as etapas é de 1 dia.
-<hr>
-
 ### Projeto Final:
 
-![DashEnade_print](https://github.com/AlbertoFAraujo/DashEnade2021/assets/105552990/98a0144c-372a-423b-bf90-1596bad8ddfe)
+![Capturar_2024_03_28_20_28_07_6](https://github.com/AlbertoFAraujo/Excel_Dashboard_ENADE/assets/105552990/573c38fc-358b-44f6-9e9e-5fbe16b9ba64)
+
 <hr>
 
-### Execução das Etapas
+### Detalhes:
 
-#### 1. Definição do objetivo da análise e coleta dos dados públicos:
+O *dashboard ENADE 2021* fornece uma visão abrangente e detalhada dos indicadores-chave de desempenho relacionados aos desempenho dos universitários nas modalidades presenciais vs EAD.
 
-O objetivo da análise é garantir a comparação da qualidade de ensino entre as modalidades EAD (distância) e Presencial de forma nacional ou estadual. A ideia é apresentar o nível de comparação entre as modalidades,        sendo correlacionadas à outros parâmetros, tais como, grau acadêmico, categoria acadêmica, cursos classificados com a maior nota e classificação geral por faixa do ENADE.
-
-#### 2. Tratamento dos dados (Limpeza, transformações, formatações, criação de tabelas dinâmicas, auxiliares e filtros-chave):
-- Foi realizado a limpeza dos dados que não constava indicação de nota do ENADE, visto que, o número de dados NULL não influenciará na comparação entre as duas modalidades;
-- Houve necessidade de abreviar alguns dados da variável “Área” e “Categoria Administrativa”, devido o comprimento dos caracteres não sendo viável na exibição dos gráficos;
-- Os campos foram formatados conforme a disposição do tipo de dados “Texto e numéricos”;
-- Foi criado todas as tabelas dinâmicas na qual serão utilizadas como base para nosso dashboard. No entanto, não utilizarei os gráficos dinâmicos (basta criar um gráfico sem dados e selecionar manualmente as informações pertinentes, visto que em uma única tabela dinâmica vou extrair dois gráficos conforme as modalidades “EAD” e “Presencial”).
-
-#### 3. Identificação das métricas-alvo e escolha das visualizações gráficas adequadas para cada cenário:
-
-Os gráficos foram escolhidos conforme a disposição dos dados das variáveis e que melhor atendem ao objetivo e visualização das informações;
-
-#### 4. Criação do layout e composição de paleta de cores:
-
-O layout foi pensando na disposição das informações, como a ideia é apresentar a comparação entre as modalidades “EAD” e “Presencial”, criei uma divisão no layout principal de forma espelhada, assim o usuário final poderá observar em paralelo as duas informações e compará-las;
-
-As paletas de cores foram baseadas na logomarca do ENADE:
-
-| RGB (35, 79, 140) | RGB (251, 202, 0) |
-|-------------------|-------------------|
-| ![paletaAzul](https://github.com/AlbertoFAraujo/DashEnade2021/assets/105552990/17ba115a-a274-44c5-bf67-2f04fada58c8) | ![paletaAmarela](https://github.com/AlbertoFAraujo/DashEnade2021/assets/105552990/f9361980-577e-437d-a5a4-0325830d4b11) |
-
-#### 5. Teste de qualidade e eficácia do dashboard (garantir que todos os gráficos estejam funcionando corretamente e que os dados estejam sendo atualizados):
-
-Foi realizado diversos testes de filtros e foram identificadas alguns inconsistências como rótulos acumulados ou em cima de legendas no gráfico de radar (”Qtd. Categ. Acadêmica”), sendo necessário criar caixas de texto para contornar o problema, visto que as legendas estão em posições fixas do gráfico.
-<hr>
+Além de fornecer dados precisos e relevantes, ele permite que gestores, educadores e autoridades educacionais identifiquem tendências, padrões e áreas de melhoria. Com essa análise comparativa, é possível tomar decisões fundamentadas para aprimorar políticas educacionais, programas de ensino e estratégias de avaliação, visando ao contínuo aprimoramento da qualidade da educação superior no Brasil.
 
 ### Resultado final
 
-![DashEnade_video](https://github.com/AlbertoFAraujo/DashEnade2021/assets/105552990/17b57185-5ebe-4311-8d05-7e10be107d1d)
+https://github.com/AlbertoFAraujo/Excel_Dashboard_ENADE/assets/105552990/180a789f-ac45-49c8-af00-99bb43c5c282
+
 
